@@ -2,7 +2,7 @@ public class BubbleSort {
 
     public static void main(String[] args) {
 
-        int[] input = {10, 9, 7, 101, 23, 44, 12, 78, 34, 23};
+        int[] input = {22,55,84,54,548,841,54,44};
 
         for (int i = 0; i < 10; i++) {
 
